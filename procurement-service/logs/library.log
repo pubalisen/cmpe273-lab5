@@ -218,3 +218,59 @@ DEBUG [2014-04-09 15:28:00,509] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedu
 
 DEBUG [2014-04-09 15:28:05,506] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
 
+DEBUG [2014-04-09 15:28:10,506] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:15,578] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:20,716] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:25,508] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:30,500] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:35,502] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:40,508] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:45,501] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:50,504] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:28:55,505] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:00,503] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:05,498] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:10,512] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:15,505] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:20,504] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:25,523] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:30,499] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:35,500] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:40,509] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:45,504] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:50,500] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:29:55,501] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:30:00,510] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:30:05,506] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:30:10,536] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:30:15,499] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:30:20,503] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
+DEBUG [2014-04-09 15:30:25,525] edu.sjsu.cmpe.procurement.jobs.ProcurementSchedulerJob: Response from jsontest.com: {"ip": "67.170.215.5"}
+
